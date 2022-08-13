@@ -4,6 +4,8 @@ Welcome to my minigames, created with pygame (Python).
 
 I wanted to create some minigames to train my coding skills. Later I will add the minigames in a game which is a bigger project.
 
+List of all the minigames : 
+The Jongleur
 
 # The Jongleur
 
